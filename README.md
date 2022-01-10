@@ -1,5 +1,3 @@
-# nlp_quora_duplicate_questions
-
 # Identifying duplicate questions
 
 Over 100 million people visit Quora every month, and many people ask similar (or the same) questions. Various questions with the same intent can cause people to spend extra time searching for the best answer to their question, and results in members answering multiple versions of the same question. 
