@@ -1,12 +1,12 @@
-# Identifying duplicate questions
+# Identifying Duplicate Questions
 
-Over 100 million people visit Quora every month, and many people ask similar (or the same) questions. Various questions with the same intent can cause people to spend extra time searching for the best answer to their question, and results in members answering multiple versions of the same question. 
+Over 100 million people visit Quora every month, and many people ask similar (or the same) questions. Various questions with the same intent can cause people to spend extra time searching for the best answer to their question, and result in members answering multiple versions of the same question. 
 
 The goal of this project is to identify whether two questions are duplicates or not (binary classification problem).
 
 ## Data
 
-Quora dataset that contains about 400K pairs of questions ('question1' and 'question2') and labels for each pair (column 'is_duplicate').
+Quora dataset that contains over 400K pairs of questions ('question1' and 'question2') and labels for each pair (column 'is_duplicate').
 
 ## Project
 
